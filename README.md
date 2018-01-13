@@ -9,4 +9,6 @@ Project to return server uptime and statistics to EDF
 3) Run the script against the servers you wish to calculate uptime for
 4) The EDFs are in Uptime Statistics Tab in the EDFs at Computer Level
 
+![Screenshot of EDFs](https://github.com/gavsto/ConnectWise-Automate-ServerUptimeStatistics/blob/master/Screenshots/UptimeStatistics.png)
+
 As per the attached license, THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
